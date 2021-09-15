@@ -3,7 +3,9 @@ drop-packages: []
 
 user-message: ""
 
-packages: []
+packages: [
+  "packages/learnyouahaskell"
+]
 
 extra-deps: []
 flags: {}
